@@ -1,0 +1,31 @@
+#aside {
+    float: left;
+    background-color: #4B0082;
+    color: white;
+    margin-top: -20px;
+    margin-left: -8px;
+    height: 620px;
+}
+
+aside a {
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+aside button {
+    background-color: #3a79e0;
+    height: 30px;
+    width: 208px;
+}
+
+header {
+    position: sticky;
+}
+
+header li {
+    border: 0 1px;
+}
+
+.border-right {
+    border-right: 1px solid black;
+}
